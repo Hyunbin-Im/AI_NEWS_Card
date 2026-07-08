@@ -1,0 +1,94 @@
+{
+ "meta": {
+  "collected": 3764,
+  "in_window": 1101,
+  "generated_at": "2026-07-08T09:00:00+09:00",
+  "note": "2026-07-08 원본 사이트(finance-ai-newsbot)에서 확인한 실제 기사로 구성한 데모 데이터"
+ },
+ "articles": [
+  {
+   "title": "우리은행·신한카드 유출서 드러난 정보보호 허점…금융사 곳곳서 '투자와 통제' 엇박자",
+   "url": "https://www.socialvalue.kr/news/view/1065614395025246",
+   "source": "socialvalue.kr",
+   "published": "2026-07-08T08:28:00+09:00",
+   "summary": "금융권이 정보보호 예산을 확대하고 보안 체계를 고도화하고 있지만 개인정보 유출 사고는 끊이지 않고 있는 것으로 나타났음. 우리은행과 신한카드 유출 사고에서 금융감독원 대응 체계의 허점이 드러남."
+  },
+  {
+   "title": "하나금융융합기술원, 솔트룩스와 함께 금융 특화 AI 파운데이션 모델 개발",
+   "url": "http://www.econonews.co.kr/news/articleView.html?idxno=440860",
+   "source": "econonews.co.kr",
+   "published": "2026-07-08T08:40:00+09:00",
+   "summary": "하나금융티아이의 사내 독립 기업인 하나금융융합기술원은 솔트룩스와 함께 금융 업무에 특화된 AI 파운데이션 모델을 자체 개발했다고 밝혔다. 금융 문서 이해, 업무 지식 검색, 질의응답, 문서 요약 등 실무 활용 기능 중심으로 학습됨."
+  },
+  {
+   "title": "[뱅크Shoot] KB·하나·농협·IBK·케이·토스 '데이 이슈'",
+   "url": "http://www.finomy.com/news/articleView.html?idxno=256994",
+   "source": "finomy.com",
+   "published": "2026-07-08T08:30:00+09:00",
+   "summary": "KB국민은행은 AI 기반 이상거래탐지시스템(FDS) 고도화와 예방 콘텐츠 확대를 통해 금융소비자 보호를 강화하고 있음. 2편에서는 AI 딥페이크 음성사기와 투자리딩방 사기를 다룰 예정임."
+  },
+  {
+   "title": "유럽중앙은행 \"미토스발 AI 보안 위협 대책 세워라\"",
+   "url": "https://www.ytn.co.kr/_ln/0104_202607080243542246",
+   "source": "ytn.co.kr",
+   "published": "2026-07-08T02:43:00+09:00",
+   "summary": "유럽중앙은행(ECB)이 AI 모델의 사이버 위협 대응책을 10월 말까지 마련하라고 역내 금융기관에 요구했음. 프런티어 AI 모델이 보안 취약점 탐지와 사이버 공격을 자동화할 수 있다는 우려에 각국 금융당국이 대책을 마련 중임."
+  },
+  {
+   "title": "금융권 AI 활용 움직임에… 도큐먼트 AI '새 기회'",
+   "url": "https://www.mt.co.kr/tech/2026/07/08/2026070719495818374",
+   "source": "mt.co.kr",
+   "published": "2026-07-08T04:04:00+09:00",
+   "summary": "생성형 AI 활용이 전산업으로 확산하면서 도큐먼트 AI 기술이 주목받음. 금융위원회는 지난달 금융권에 생성형 AI 활용을 확대하기 위한 망분리 개선방안을 발표했음."
+  },
+  {
+   "title": "IBK기업은행, AI 리딩 뱅크 비전 담은 'AIBK' 광고 공개…따뜻한 AX 메시지",
+   "url": "https://www.public25.com/news/articleView.html?idxno=50134",
+   "source": "public25.com",
+   "published": "2026-07-08T07:20:00+09:00",
+   "summary": "IBK기업은행은 아티스트 로꼬와 함께 AI 금융 시대의 새로운 브랜드 비전을 담은 기업PR 광고 AIBK를 공개했음."
+  },
+  {
+   "title": "[IT썰] 클로드, 챗GPT·제미나이 주춤한 새 '나홀로 성장'",
+   "url": "https://www.mt.co.kr/tech/2026/07/08/2026070713374591409",
+   "source": "mt.co.kr",
+   "published": "2026-07-08T07:00:00+09:00",
+   "summary": "클로드가 한국 시장에서 성장세를 이어가는 반면 제미나이, 챗GPT, 그록 등 경쟁자들은 성장세가 둔화했음. 한국 iOS 이용자 사이에서 클로드가 생성형 AI 매출 2위를 기록."
+  },
+  {
+   "title": "LG AI연구원 코스콤과 '맞손'…'한국 주식시장 예측 AI 서비스' 구축",
+   "url": "http://www.bizwnews.com/news/articleView.html?idxno=140202",
+   "source": "bizwnews.com",
+   "published": "2026-07-07T21:50:00+09:00",
+   "summary": "AI가 매일 코스피·코스닥 상장 2500여개 기업의 데이터를 분석해 4주간의 주가 흐름을 점수로 예측하고 판단 근거를 코멘터리로 설명하는 서비스가 올해 안에 도입됨."
+  },
+  {
+   "title": "AWS \"AI 에이전트 기반 업무 자동화, 데스크톱 환경서 안전하게\"",
+   "url": "https://www.dt.co.kr/article/12071662",
+   "source": "dt.co.kr",
+   "published": "2026-07-08T06:00:00+09:00",
+   "summary": "AWS는 AI 에이전트가 데스크톱 환경에서 안전하게 구동하는 신규 기능을 출시했음. 관리형 MCP 서비스 엔드포인트를 통해 데스크톱 애플리케이션과 상호작용함."
+  },
+  {
+   "title": "물가지수, 고사리 빼고 생성형 AI 구독료 넣는다",
+   "url": "https://www.seoul.co.kr/news/economy/2026/07/08/20260708032004",
+   "source": "seoul.co.kr",
+   "published": "2026-07-08T05:04:00+09:00",
+   "summary": "챗GPT, 제미나이 등 생성형 AI 구독료가 오는 12월부터 물가 조사 대상에 포함됨. 소프트웨어 구독료 항목으로 조사가 이뤄짐."
+  },
+  {
+   "title": "ECB도 \"미토스발 AI 보안 위협 대책 세워라\"",
+   "url": "https://www.yna.co.kr/view/AKR20260708001000082",
+   "source": "yna.co.kr",
+   "published": "2026-07-08T01:17:00+09:00",
+   "summary": "유럽중앙은행이 AI 모델의 사이버 위협에 대한 대응책을 10월 말까지 마련하라고 역내 금융기관 110곳에 서한을 보냈음."
+  },
+  {
+   "title": "어센트 AI, 맥락 데이터화로 일본 헬스케어·금융 마케팅 AX 시장 공략",
+   "url": "https://www.etnews.com/20260707000443",
+   "source": "etnews.com",
+   "published": "2026-07-07T23:56:00+09:00",
+   "summary": "어센트 AI가 일본 헬스케어·금융 마케팅 AX 시장 공략을 본격화함. 검색 인텐트 데이터 기반 마케팅 AX를 확대할 계획."
+  }
+ ]
+}

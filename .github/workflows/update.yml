@@ -8,7 +8,7 @@ on:
   workflow_dispatch: {}                 # 수동 실행 버튼
 
 jobs:
-    build:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

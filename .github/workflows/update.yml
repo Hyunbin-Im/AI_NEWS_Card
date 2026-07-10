@@ -1,12 +1,14 @@
 # 30분마다 뉴스 수집 → 대시보드 재생성 → 커밋 (Vercel이 자동 재배포)
 name: update-dashboard
+permissions:
+  contents: write   # 봇이 결과물을 push할 수 있게
 on:
   schedule:
     - cron: "*/30 22-23,0-10 * * 0-5"  # KST 07~19시 (UTC 기준), 평일 위주
   workflow_dispatch: {}                 # 수동 실행 버튼
 
 jobs:
-  build:
+    build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
